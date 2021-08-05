@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Main view](https://i.imgur.com/cfTxEFK.png)
-![Tablet view](https://i.imgur.com/3VCYawb.png)
-![Mobile view](https://i.imgur.com/EjGet98.png)
+![Main view](https://i.imgur.com/tCmiHQM.png)
+![Tablet view](https://i.imgur.com/L9YDqbf.png)
+![Mobile view](https://i.imgur.com/shh0s1j.png)
 
 ### Links
 
-- Live Site URL: [https://sleepy-dijkstra-20f4ba.netlify.app]
+- Live Site URL: [https://nostalgic-haibt-f50b41.netlify.app]
 
 ## My process
 
